@@ -5,7 +5,7 @@ Initial dictionary loading and preprocessing is kinda slow here but after the pr
 Call the stemBanglaWord() function for Bangla word stemming
 
 
-If you use this work and publish any research work, it would be nice if you can site my research work for which I have written this word stemmer. - 
+If you use this work and publish any research work, it would be nice if you can cite my research work for which I have written this word stemmer. - 
 https://www.tandfonline.com/doi/full/10.1080/24751839.2018.1558378
 
 As -
